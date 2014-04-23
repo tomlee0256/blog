@@ -8,7 +8,7 @@ categories: JavaScript
 
 在JavaScript中对二进制的操作方式主要有三种：
 
-1. Typed Array;
+1. Typed Array; 
 2. imageData;
 3. charCodeAt;
 

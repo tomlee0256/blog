@@ -6,7 +6,7 @@ categories: JavaScript
 ---
 ![utf8]({{ site.url }}/assets/images/utf8.gif)	
 
-##Unicode
+##Unicode 
 ---
 Unicode是一个符号集，规定了大部分语言中符号的二进制代码表示；
 ###Little endian和Big endian
