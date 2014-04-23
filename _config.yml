@@ -1,4 +1,4 @@
 name: Tom Lee
-baseurl: '/blog'
+url: http://tomlee0256.github.io/blog
 markdown: redcarpet
 pygments: true
