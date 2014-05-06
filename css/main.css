@@ -20,7 +20,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%; 
+  color: #08c;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -162,5 +164,3 @@ a:visited { color: #a0a; }
 img{
   max-width: 100%;
 }
-
-
